@@ -1,6 +1,6 @@
 name: calcu
 description: Just a calcu
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/withcenterdev5/calcu
 
 environment:
